@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "TP4056_Module")(type "KiCad")(uri "${KIPRJMOD}/TP4056_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "Power_Bank_Module")(type "KiCad")(uri "${KIPRJMOD}/Power_Bank_Module.kicad_sym")(options "")(descr ""))
 )

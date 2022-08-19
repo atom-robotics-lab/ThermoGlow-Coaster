@@ -2294,7 +2294,7 @@
     (uuid 465fa1d7-438a-4179-8f7b-17a5edbc6ac2)
     (property "Reference" "SW1" (id 0) (at 196.342 60.96 0))
     (property "Value" "SW_SPDT" (id 1) (at 196.342 63.5 0))
-    (property "Footprint" "" (id 2) (at 196.342 67.31 0)
+    (property "Footprint" "Button_Switch_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled" (id 2) (at 196.342 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 196.342 67.31 0)
@@ -2454,7 +2454,7 @@
     (uuid 689e8e86-37e1-4740-9e66-5c53a4404734)
     (property "Reference" "SW2" (id 0) (at 195.072 77.47 0))
     (property "Value" "SW_Push" (id 1) (at 197.612 82.55 0))
-    (property "Footprint" "" (id 2) (at 197.612 74.93 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 197.612 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 197.612 74.93 0)
@@ -2845,7 +2845,7 @@
     (uuid cb6274d7-f31a-45f6-9679-0c3033833f41)
     (property "Reference" "U1" (id 0) (at 46.228 48.006 0))
     (property "Value" "T6845C_Module" (id 1) (at 46.228 25.146 0))
-    (property "Footprint" "" (id 2) (at 47.498 36.576 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 47.498 36.576 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 47.498 36.576 0)
@@ -3209,13 +3209,13 @@
       (reference "R6") (unit 1) (value "10K") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/465fa1d7-438a-4179-8f7b-17a5edbc6ac2"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled")
     )
     (path "/689e8e86-37e1-4740-9e66-5c53a4404734"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
     )
     (path "/cb6274d7-f31a-45f6-9679-0c3033833f41"
-      (reference "U1") (unit 1) (value "T6845C_Module") (footprint "")
+      (reference "U1") (unit 1) (value "T6845C_Module") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
     )
     (path "/eacb41d9-aa3d-4548-904e-3f363a3c1aac"
       (reference "U2") (unit 1) (value "ESP-12E") (footprint "RF_Module:ESP-12E")

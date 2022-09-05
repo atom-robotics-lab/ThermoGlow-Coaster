@@ -1,5 +1,9 @@
 # Temperature Controlled LED Coaster
 
+<img src="images/pcb_3d_view.gif" width=800 />
+
+
+
 This project is an ESP12E based Temperature Controlled Smart Coaster. The project uses the following:
  * ESP12E Module
  * 12 x WS2812B SMD LEDs
@@ -15,4 +19,4 @@ This project is an ESP12E based Temperature Controlled Smart Coaster. The projec
 <img src="images/schematic.png" width=800 />
 
 # PCB Design
-<img src="images/pcb_design.png" width=800 />
+<img src="images/pcb_design_new.png" width=800 />
